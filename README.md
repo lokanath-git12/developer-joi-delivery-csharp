@@ -156,8 +156,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
 
     ```bash
-    git clone git@github.com:techops-recsys-lateral-hiring/joi-delivery-csharp.git
-    cd joi-delivery-csharp
+    git clone git@github.com:techops-recsys-lateral-hiring/developer-joi-delivery-csharp.git
+    cd developer-joi-delivery-csharp
     ```
 
 2.  **Restore dependencies:**
